@@ -5,6 +5,9 @@
     color: white;
     box-sizing: border-box; 
 }
+html {
+    100%
+}
 
 body {
     background: url(img/pexels-media-2047905.jpeg) no-repeat center center fixed;
