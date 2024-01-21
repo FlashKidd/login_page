@@ -71,11 +71,12 @@ nav a {
 }
 
 .remember-me {
-    display: flex;
+    margin-bottom: 8px;
     align-items: center;
 }
 
 .remember-me label {
+    border-radius: 10px;
     margin-left: 5px;
 }
 
@@ -101,5 +102,10 @@ nav a {
 }
 
 .btt {
-    text-align: center;
+    text-align: centerH;
+}
+
+.check-fix{
+    display: flex;
+    align-items: center;
 }
